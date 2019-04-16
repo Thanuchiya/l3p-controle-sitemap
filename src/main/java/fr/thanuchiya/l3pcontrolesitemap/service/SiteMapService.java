@@ -1,19 +1,15 @@
 package fr.thanuchiya.l3pcontrolesitemap.service;
 
-
 import org.springframework.stereotype.Component;
+
+import javax.xml.XMLConstants;
 
 @Component
 public class SiteMapService {
 
-public XML transform(Object o) {
+//XMLConstants transform(Object o) {}
 
-
+// Object transform (XMLConstants x) {return x;}
 }
 
-public Object transform (XML) {
-
-
-}
-}
 
